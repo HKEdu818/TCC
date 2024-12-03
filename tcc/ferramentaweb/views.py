@@ -3,7 +3,7 @@ from django.http import JsonResponse, StreamingHttpResponse
 from django.shortcuts import render
 from .models import Historico_Conversa, Historico_Conversa_Transferida
 from django.utils import timezone
-
+fdfdfdfdfdfdfdfdfdf
 openai.api_key = ''
 
 def index(request):
